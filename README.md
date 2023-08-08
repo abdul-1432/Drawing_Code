@@ -26,7 +26,7 @@ To get started with the Drawing Code repository, follow these steps:
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
 
    ```bash
-   https://github.com/abdul-1432/Drawing_Code
+   https://github.com/abdul-1432/Drawing_Code/tree/main/Drawing%20Code
    ```
 
 2. **Explore the Contents:** Once you have the repository on your machine, take some time to explore the various directories and files. You'll find a variety of code samples, projects, and documentation to inspire your own creative coding endeavors.
