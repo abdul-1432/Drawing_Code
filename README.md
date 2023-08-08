@@ -1,6 +1,6 @@
 # Drawing Code GitHub Repository
 
-![Drawing Code](repository_image.jpg)
+![1](https://github.com/abdul-1432/Drawing_Code/assets/124916666/051d2040-19d6-4636-965b-dad611599935)
 
 Welcome to the Drawing Code GitHub repository! This repository contains a collection of code snippets and projects related to various drawing techniques, algorithms, and applications. Whether you're a beginner looking to learn about graphics programming or an experienced developer interested in exploring new artistic possibilities through code, this repository has something for you.
 
